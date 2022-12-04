@@ -1,5 +1,5 @@
 # Python for Data Analysis
-This repo contains the material for workshop@PyconHyd2022 "Python for Data Analysis"
+This repo contains the material for [workshop@PyconHyd2022](https://twitter.com/pyconfhyd) "Python for Data Analysis"
 
 ## Setup
 
@@ -10,6 +10,8 @@ python3.8 -m venv venv
 source venv/bin/activate
 # install required packages
 pip install jupyterlab pandas matplotlib scikit-learn seaborn
+#start jupyter lab locally
+jupyter-lab
 
 ```
 
